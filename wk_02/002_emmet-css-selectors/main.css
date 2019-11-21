@@ -1,0 +1,9 @@
+ li15, li30, li45, li60, li75, li90 {
+ color: red;
+ }
+ul {
+    column-count: 6;
+}
+li10, li45, li80 {
+    background-color: cyan;
+}
